@@ -4,8 +4,9 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 ## Features
 - Post and share technical content.
 - Comment on posts to engage in discussions.
+- Search a post for faster accesss.
 - Secure user authentication and data protection using JWT and Bcrypt.
-- Responsive design for optimal user experience on any device.
+- Responsive Modern and Aesthetic design for optimal user experience on any device.
 
 
 ## Technologies Used
@@ -23,38 +24,41 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 3. Browse, post, and comment on technical content.
 4. Enjoy secure and responsive interactions within the forum.
 
-## Video
-
-https://github.com/user-attachments/assets/c60b69f4-698d-4472-bc7f-020b1005f3ee
 
 ## Photos
 - HomePage
+  
+<img width="1280" alt="HomePage" src="https://github.com/user-attachments/assets/6acafa03-cd1e-40f6-add9-0c7c421aaebb" />
 
-![image](https://github.com/user-attachments/assets/91124e31-f38f-4866-8ec2-65c36ac75629)
 
 - Login Page
   
-![image](https://github.com/user-attachments/assets/003316c7-4fc3-4429-95fe-1cade9694b67)
+<img width="1276" alt="Login" src="https://github.com/user-attachments/assets/c9617743-60c4-4639-b7f1-a332275fe56d" />
+
+
 
 - Register Page
 
-![image](https://github.com/user-attachments/assets/4605f5b9-071e-460a-9675-6805a10e4265)
+<img width="1280" alt="Signup" src="https://github.com/user-attachments/assets/5b88d713-1010-44e8-9f93-9a8a27c9bb91" />
+
+
 
 - PostDetails Page
+<img width="1077" alt="PostDetails" src="https://github.com/user-attachments/assets/fa5b84ed-41dd-4db8-b18f-8063a693c86c" />
 
-![image](https://github.com/user-attachments/assets/e28bc8c6-44f1-4012-a170-180c94cc05c1)
+
 
 - Profile Page
-  
-![image](https://github.com/user-attachments/assets/fb0f7ee4-6d2c-4e22-ac05-e7a91a74db62)
+<img width="1280" alt="Profile" src="https://github.com/user-attachments/assets/d820185c-a3d1-4fcf-8608-9381fc683cf4" />
+
+
 
 - CreatePost Page
   
-![image](https://github.com/user-attachments/assets/1b9a3e17-b4b2-4d99-a1eb-59cfa56ee43d)
+<img width="1280" alt="Create Post" src="https://github.com/user-attachments/assets/715840ed-02ea-4388-bfe9-80dc86afe5c0" />
 
--MyBlogs Page
 
-![image](https://github.com/user-attachments/assets/a0cce255-65b8-48bc-99e7-4d29dd371c29)
+
 
 
 ## Run Locally
