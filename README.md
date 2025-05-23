@@ -31,9 +31,11 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 <img width="1280" alt="HomePage" src="https://github.com/user-attachments/assets/6acafa03-cd1e-40f6-add9-0c7c421aaebb" />
 
 
+
 - Login Page
   
 <img width="1276" alt="Login" src="https://github.com/user-attachments/assets/c9617743-60c4-4639-b7f1-a332275fe56d" />
+
 
 
 
@@ -43,13 +45,16 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 
 
 
+
 - PostDetails Page
 <img width="1077" alt="PostDetails" src="https://github.com/user-attachments/assets/fa5b84ed-41dd-4db8-b18f-8063a693c86c" />
 
 
 
+
 - Profile Page
 <img width="1280" alt="Profile" src="https://github.com/user-attachments/assets/d820185c-a3d1-4fcf-8608-9381fc683cf4" />
+
 
 
 
@@ -101,9 +106,9 @@ Frontend:
   npm run dev
 ```
 
-#Before Running Project add a .env File in backend folder 
-- env file structure:
+# Before Running Project add a .env File in backend folder. 
+# env file structure:
 
-PORT=5001
-MONGO_URL=YOUR_MONGO_URL
-SECRET=mswi883mei22nndf%
+- PORT=5001
+- MONGO_URL=YOUR_MONGO_URL
+- SECRET=mswi883mei22nndf%
