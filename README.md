@@ -100,3 +100,10 @@ Frontend:
   cd frontend
   npm run dev
 ```
+
+#Before Running Project add a .env File in backend folder 
+- env file structure:
+
+PORT=5001
+MONGO_URL=YOUR_MONGO_URL
+SECRET=mswi883mei22nndf%
