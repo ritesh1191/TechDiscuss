@@ -27,27 +27,32 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 
 ## Photos
 - HomePage
-  
-<img width="1280" alt="HomePage" src="https://github.com/user-attachments/assets/6acafa03-cd1e-40f6-add9-0c7c421aaebb" />
+
+<img width="1280" alt="Screenshot 2025-05-24 at 9 28 47 PM" src="https://github.com/user-attachments/assets/4702f591-be73-4a78-a406-a5ffad2d372e" />
+
 
 
 
 - Login Page
   
-<img width="1276" alt="Login" src="https://github.com/user-attachments/assets/c9617743-60c4-4639-b7f1-a332275fe56d" />
+<img width="1280" alt="Screenshot 2025-05-24 at 9 30 30 PM" src="https://github.com/user-attachments/assets/31c6b9ed-9bf0-4b7c-9b6a-94814e93bb55" />
+
 
 
 
 
 - Register Page
 
-<img width="1280" alt="Signup" src="https://github.com/user-attachments/assets/5b88d713-1010-44e8-9f93-9a8a27c9bb91" />
+<img width="1280" alt="Screenshot 2025-05-24 at 9 30 42 PM" src="https://github.com/user-attachments/assets/ce752d1b-e23b-4ea2-9cf9-460e16353bca" />
+
 
 
 
 
 - PostDetails Page
-<img width="1077" alt="PostDetails" src="https://github.com/user-attachments/assets/fa5b84ed-41dd-4db8-b18f-8063a693c86c" />
+
+  <img width="1280" alt="Screenshot 2025-05-24 at 9 32 24 PM" src="https://github.com/user-attachments/assets/e5995f97-fb70-4397-8ce4-b38fb1925eb9" />
+
 
 
 
