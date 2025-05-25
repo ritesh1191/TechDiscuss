@@ -30,36 +30,27 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 ## Photos
 
 - HomePage
-<img width="1280" alt="Screenshot 2025-05-25 at 1 48 10 PM" src="https://github.com/user-attachments/assets/96c66f3f-a29b-4464-a0d6-61a54b9c1062" />
 
-
+<img width="1280" alt="Screenshot 2025-05-24 at 9 28 47 PM" src="https://github.com/user-attachments/assets/4702f591-be73-4a78-a406-a5ffad2d372e" />
 
 - Login Page
 
-<img width="1280" alt="Screenshot 2025-05-25 at 1 48 24 PM" src="https://github.com/user-attachments/assets/e51b0462-ab5b-4206-8f98-ac618d31c6fa" />
-
+<img width="1280" alt="Screenshot 2025-05-24 at 9 30 30 PM" src="https://github.com/user-attachments/assets/31c6b9ed-9bf0-4b7c-9b6a-94814e93bb55" />
 
 - Register Page
 
-<img width="1280" alt="Screenshot 2025-05-25 at 1 48 33 PM" src="https://github.com/user-attachments/assets/f8f39481-114a-47b7-a673-9b8da7a4423d" />
-
-
-- Create Post Page
-<img width="1280" alt="Screenshot 2025-05-25 at 1 49 05 PM" src="https://github.com/user-attachments/assets/696e6266-92ae-410f-8dbf-dbc31726e0a5" />
-
+<img width="1280" alt="Screenshot 2025-05-24 at 9 30 42 PM" src="https://github.com/user-attachments/assets/ce752d1b-e23b-4ea2-9cf9-460e16353bca" />
 
 - PostDetails Page
 
-<img width="1280" alt="Screenshot 2025-05-25 at 1 49 44 PM" src="https://github.com/user-attachments/assets/deacd2e6-e2a9-40e5-9e76-75e9de9065af" />
-
-  
+  <img width="1280" alt="Screenshot 2025-05-24 at 9 32 24 PM" src="https://github.com/user-attachments/assets/e5995f97-fb70-4397-8ce4-b38fb1925eb9" />
 
 - Profile Page
-<img width="1280" alt="Screenshot 2025-05-25 at 1 49 19 PM" src="https://github.com/user-attachments/assets/26b67eef-04da-4da5-a2cb-938bb8266fce" />
+  <img width="1280" alt="Profile" src="https://github.com/user-attachments/assets/d820185c-a3d1-4fcf-8608-9381fc683cf4" />
 
-  
+- CreatePost Page
 
-
+<img width="1280" alt="Create Post" src="https://github.com/user-attachments/assets/715840ed-02ea-4388-bfe9-80dc86afe5c0" />
 
 ## Run Locally
 
