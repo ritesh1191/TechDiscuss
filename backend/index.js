@@ -34,7 +34,20 @@ const connectDB = async () => {
 // middlewares
 app.use(express.json());
 app.use("/images", express.static(path.join(__dirname, "/images")));
-app.use(cors({ origin: "http://localhost:5173", credentials: true }));
+
+// CORS configuration
+const allowedOrigins = ['http://localhost:5173', process.env.FRONTEND_URL || 'https://techdiscuss.onrender.com'];
+app.use(cors({ 
+  origin: function(origin, callback) {
+    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true
+}));
+
 app.use(cookieParser());
 app.use("/api/auth", authRoute);
 app.use("/api/users", userRoute);
