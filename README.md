@@ -31,26 +31,32 @@ TechDiscuss is a technical discussion forum application that allows users to pos
 
 - HomePage
 
-<img width="1280" alt="Screenshot 2025-05-24 at 9 28 47 PM" src="https://github.com/user-attachments/assets/4702f591-be73-4a78-a406-a5ffad2d372e" />
+<img width="1280" alt="Screenshot 2025-05-25 at 4 25 51 PM" src="https://github.com/user-attachments/assets/2d1a8890-b8df-4b3f-92c9-745ec6275908" />
+
 
 - Login Page
+<img width="1280" alt="Screenshot 2025-05-25 at 4 25 03 PM" src="https://github.com/user-attachments/assets/35b0559d-e8a0-49ef-b9af-da4e2a634dcd" />
 
-<img width="1280" alt="Screenshot 2025-05-24 at 9 30 30 PM" src="https://github.com/user-attachments/assets/31c6b9ed-9bf0-4b7c-9b6a-94814e93bb55" />
+
 
 - Register Page
+<img width="1280" alt="Screenshot 2025-05-25 at 4 25 17 PM" src="https://github.com/user-attachments/assets/da261b1a-1e00-4fca-bcf2-b00f76702111" />
 
-<img width="1280" alt="Screenshot 2025-05-24 at 9 30 42 PM" src="https://github.com/user-attachments/assets/ce752d1b-e23b-4ea2-9cf9-460e16353bca" />
+
 
 - PostDetails Page
+<img width="1280" alt="Screenshot 2025-05-25 at 4 26 25 PM" src="https://github.com/user-attachments/assets/993d1375-ee5c-461f-ba88-7a7b9783e93d" />
 
-  <img width="1280" alt="Screenshot 2025-05-24 at 9 32 24 PM" src="https://github.com/user-attachments/assets/e5995f97-fb70-4397-8ce4-b38fb1925eb9" />
+
 
 - Profile Page
-  <img width="1280" alt="Profile" src="https://github.com/user-attachments/assets/d820185c-a3d1-4fcf-8608-9381fc683cf4" />
+<img width="1280" alt="Screenshot 2025-05-25 at 4 26 11 PM" src="https://github.com/user-attachments/assets/ee295836-a44d-49b9-a942-366ee8162b00" />
+
 
 - CreatePost Page
+<img width="1280" alt="Screenshot 2025-05-25 at 4 26 00 PM" src="https://github.com/user-attachments/assets/e1274e12-3840-4b88-9bb6-b2c1cde5ca3a" />
 
-<img width="1280" alt="Create Post" src="https://github.com/user-attachments/assets/715840ed-02ea-4388-bfe9-80dc86afe5c0" />
+
 
 ## Run Locally
 
