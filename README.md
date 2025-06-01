@@ -2,6 +2,8 @@
 
 TechDiscuss is a full-stack MERN application designed for technical discussions and knowledge sharing. It provides a platform where users can create, share, and discuss technical content through posts and comments.
 
+Live Site: https://tech-discuss-frontend.onrender.com
+
 ## 🌟 Features
 
 ### User Authentication
