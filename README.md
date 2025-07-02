@@ -31,6 +31,31 @@ Live Site: https://tech-discuss-frontend.onrender.com
 - Fast loading times
 - Cross-browser compatibility
 
+
+##  📸 Photo Gallery
+
+### Register Page
+<img width="1280" alt="Screenshot 2025-07-02 at 10 23 21 PM" src="https://github.com/user-attachments/assets/118f3134-4b36-46bd-861d-53f46fa1aae7" />
+
+### Login Page
+<img width="1280" alt="Screenshot 2025-07-02 at 10 23 12 PM" src="https://github.com/user-attachments/assets/1b873910-d73d-4860-b396-bbd90bd014fc" />
+
+### Home Page
+<img width="1280" alt="Screenshot 2025-07-02 at 10 23 39 PM" src="https://github.com/user-attachments/assets/1215bed2-64ab-4ccd-865f-283b88116421" />
+
+### Post Details page
+<img width="1144" alt="Screenshot 2025-07-02 at 10 24 17 PM" src="https://github.com/user-attachments/assets/db3df465-01c1-4e74-b462-ee8900a237ba" />
+
+### Create Post page
+<img width="1280" alt="Screenshot 2025-07-02 at 10 24 45 PM" src="https://github.com/user-attachments/assets/f3fc72d9-cc01-4280-a3ac-aea5312923fc" />
+
+### Update Post Page
+<img width="1280" alt="Screenshot 2025-07-02 at 10 27 45 PM" src="https://github.com/user-attachments/assets/3c547710-2d2d-4645-8e97-8d37eb76395b" />
+
+### Profile Page
+<img width="1137" alt="Screenshot 2025-07-02 at 10 24 59 PM" src="https://github.com/user-attachments/assets/5e3e48c5-8317-4dc6-bd7a-967f0454ba2b" />
+
+
 ## 🛠️ Technologies Used
 
 ### Frontend
