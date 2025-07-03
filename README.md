@@ -186,34 +186,3 @@ npm run dev
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-
-## Photos
-
-- HomePage
-
-<img width="1280" alt="Screenshot 2025-05-25 at 4 25 51 PM" src="https://github.com/user-attachments/assets/2d1a8890-b8df-4b3f-92c9-745ec6275908" />
-
-
-- Login Page
-<img width="1280" alt="Screenshot 2025-05-25 at 4 25 03 PM" src="https://github.com/user-attachments/assets/35b0559d-e8a0-49ef-b9af-da4e2a634dcd" />
-
-
-
-- Register Page
-<img width="1280" alt="Screenshot 2025-05-25 at 4 25 17 PM" src="https://github.com/user-attachments/assets/da261b1a-1e00-4fca-bcf2-b00f76702111" />
-
-
-
-- PostDetails Page
-<img width="1280" alt="Screenshot 2025-05-25 at 4 26 25 PM" src="https://github.com/user-attachments/assets/993d1375-ee5c-461f-ba88-7a7b9783e93d" />
-
-
-
-- Profile Page
-<img width="1280" alt="Screenshot 2025-05-25 at 4 26 11 PM" src="https://github.com/user-attachments/assets/ee295836-a44d-49b9-a942-366ee8162b00" />
-
-
-- CreatePost Page
-<img width="1280" alt="Screenshot 2025-05-25 at 4 26 00 PM" src="https://github.com/user-attachments/assets/e1274e12-3840-4b88-9bb6-b2c1cde5ca3a" />
-
